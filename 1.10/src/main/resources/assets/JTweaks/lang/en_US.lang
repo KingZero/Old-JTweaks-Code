@@ -1,0 +1,77 @@
+//Tabs
+itemGroup.tabJBlocks=JBlocks
+itemGroup.tabJCrops=JCrops
+itemGroup.tabJItems=JItems
+itemGroup.tabJMisc=JMisc
+
+//items
+item.Backpack.name=Backpack
+item.GuardMold.name=GuardMold
+item.HiltMold.name=HiltMold
+item.PommelMold.name=PommelMold
+item.BladeMold.name=BladeMold
+item.Guard.name=Guard
+item.Hilt.name="Hilt"
+item.Pommel.name=Pommel
+item.Blade.name=Blade
+item.Flour.name=Flour
+item.Glue.name=Glue
+item.Hammer.name=Hammer
+item.PortalStarter.name=PortalStarter
+
+//Blocks
+tile.Portal.name=Portal
+tile.NetherOre.name=Nether Ore
+tile.ForgeAnvil.name=Anvil
+tile.Forge.name=Forge
+
+//Scythes
+item.ScytheMold.name=Scythe Mold
+item.Staff.name=Staff
+item.BlazeStaff.name=Blaze Staff
+item.ObsidianRod.name=Obsidian Rod
+item.ObsidianStaff.name=Obsidian Staff
+
+item.NetherScytheHead.name=Nether Scythe Head
+item.DiamondScytheHead.name=Diamond Scythe Head
+item.GoldScytheHead.name=Gold Scythe Head
+item.IronScytheHead.name=Iron Scythe Head
+item.StoneScytheHead.name=Stone Scythe Head
+item.WoodScytheHead.name=Wood Scythe Head
+
+item.NetherScythe.name=Nether Scythe
+item.DiamondScythe.name=Diamond Scythe
+item.GoldScythe.name=Gold Scythe
+item.IronScythe.name=Iron Scythe
+item.StoneScythe.name=Stone Scythe
+item.WoodScythe.name=Wood Scythe
+
+item.NetherBlazeScythe.name=Nether Blaze Scythe
+item.DiamondBlazeScythe.name=Diamond Blaze Scythe
+item.GoldBlazeScythe.name=Gold Blaze Scythe
+item.IronBlazeScythe.name=Iron Blaze Scythe
+item.StoneBlazeScythe.name=Stone Blaze Scythe
+item.WoodBlazeScythe.name=Wood Blaze Scythe
+
+item.NetherObsidianScythe.name=Nether Obsidian Scythe
+item.DiamondObsidianScythe.name=Diamond Obsidian Scythe
+item.GoldObsidianScythe.name=Gold Obsidian Scythe
+item.IronObsidianScythe.name=Iron Obsidian Scythe
+item.StoneObsidianScythe.name=Stone Obsidian Scythe
+item.WoodObsidianScythe.name=Wood Obsidian Scythe
+
+//Crops
+tile.Rye.name=Rye
+tile.Bamboo.name=Bamboo
+tile.Onion.name=Onion
+tile.Tomato.name=Tomato
+tile.Orange.name=Orange
+
+item.SeedsRye.name=Rye Seeds
+item.ItemRye.name=Rye
+item.ItemBamboo.name=Bamboo
+item.ItemOnion.name=Onion
+item.PoisonousOnion.name=Poisonous Onion
+item.ItemTomato.name=Tomato
+item.PoisonousTomato.name=Poisonous Tomato
+item.ItemOrange.name=Orange

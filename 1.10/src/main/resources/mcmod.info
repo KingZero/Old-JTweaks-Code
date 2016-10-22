@@ -1,0 +1,16 @@
+[
+{
+  "modid": "JTweaks",
+  "name": "Jonas' Tweaks",
+  "description": "Jonas' Custom stuffs",
+  "version": "Alpha 0.0.2",
+  "mcversion": "1.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JonasPetDragon"],
+  "credits": "So far just by myself ;-;",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

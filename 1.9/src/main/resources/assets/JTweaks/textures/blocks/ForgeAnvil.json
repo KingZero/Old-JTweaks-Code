@@ -1,0 +1,6 @@
+{
+    "parent": "JTweaks:block/ForgeAnvil",
+    "textures": {
+        "layer0":"JTweaks.blocks/ForgeAnvil"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent":"JTweaks:item/standard_item",
+    "textures": {
+        "layer0":" JTweaks:item.Pommel"
+    }
+}
