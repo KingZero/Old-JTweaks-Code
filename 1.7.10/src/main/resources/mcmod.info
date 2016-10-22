@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BwB",
+  "name": "Borne With Blood",
+  "description": "JonasPetDragon's Mod",
+  "version": "Beta",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "JonasPetDragon",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
